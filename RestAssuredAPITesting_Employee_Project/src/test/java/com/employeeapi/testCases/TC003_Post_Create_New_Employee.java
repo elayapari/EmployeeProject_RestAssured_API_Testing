@@ -36,7 +36,7 @@ public class TC003_Post_Create_New_Employee extends TestBase {
 		httpRequest.body(requestParams.toJSONString());
 		response = httpRequest.request(Method.POST, "/create");
 
-		Thread.sleep(3000);
+		Thread.sleep(5000);
 
 	}
 

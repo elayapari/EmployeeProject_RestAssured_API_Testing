@@ -20,7 +20,7 @@ public class TC005_Delete_Employee extends TestBase {
 		RestAssured.baseURI = "https://dummy.restapiexample.com/api/v1";
 		httpRequest = RestAssured.given();
 
-		response = httpRequest.request(Method.DELETE, "/delete/10");
+		response = httpRequest.request(Method.DELETE, "/delete/8");
 
 		Thread.sleep(3000);
 

@@ -36,7 +36,7 @@ public class TC004_PUT_Update_Existing_Employee extends TestBase {
 
 		response = httpRequest.request(Method.PUT, "/update/" + empID);
 
-		Thread.sleep(3000);
+		Thread.sleep(5000);
 
 	}
 

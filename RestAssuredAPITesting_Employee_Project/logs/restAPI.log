@@ -2012,3 +2012,426 @@
 2022-09-17 14:37:01 INFO  Employee Rest API Automation Testing:31 - **********Checking Status code Test*****************
 2022-09-17 14:37:01 INFO  Employee Rest API Automation Testing:32 - Status code is =======>200
 2022-09-17 14:37:01 INFO  Employee Rest API Automation Testing:46 - **************Completed executing TC005_Delete_Employee**************************************
+2022-09-19 14:19:11 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:19:27 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:19:27 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 429
+2022-09-19 14:19:27 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:19:27 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:19:27 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:19:33 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:19:42 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:19:42 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 429
+2022-09-19 14:19:42 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:19:43 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:19:43 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:19:48 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:19:57 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:19:57 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 429
+2022-09-19 14:19:57 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:19:58 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:19:58 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:20:04 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:20:13 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:20:13 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 200
+2022-09-19 14:20:13 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:20:15 INFO  Employee Rest API Automation Testing:56 - Response message is: Successfully! All records has been fetched.
+2022-09-19 14:20:15 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:20:15 INFO  Employee Rest API Automation Testing:45 - Response status is: success
+2022-09-19 14:20:15 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:20:23 INFO  Employee Rest API Automation Testing:18 - ****************Started TC002_Get_Single_Employee**************************
+2022-09-19 14:20:30 INFO  Employee Rest API Automation Testing:61 - ******************Checking Employee ID ****************************************
+2022-09-19 14:20:31 INFO  Employee Rest API Automation Testing:63 - Emp ID is: 1
+2022-09-19 14:20:31 INFO  Employee Rest API Automation Testing:30 - ***********Checking Status Code Test********************
+2022-09-19 14:20:31 INFO  Employee Rest API Automation Testing:33 - Status code is: 200
+2022-09-19 14:20:31 INFO  Employee Rest API Automation Testing:52 - *********************checking success message in the response body*******************
+2022-09-19 14:20:31 INFO  Employee Rest API Automation Testing:41 - ****************checking success status in the response body******************************
+2022-09-19 14:20:32 INFO  Employee Rest API Automation Testing:44 - Response status is ==> success
+2022-09-19 14:20:32 INFO  Employee Rest API Automation Testing:71 - ************ Completed TC002_Get_Single_Employee**********************
+2022-09-19 14:20:39 INFO  Employee Rest API Automation Testing:25 - *********  Started TC003_Post_Create_New_Employee********************
+2022-09-19 14:20:47 INFO  Employee Rest API Automation Testing:64 - *******************checking Employee Name *******************************************
+2022-09-19 14:20:47 INFO  Employee Rest API Automation Testing:46 - ************checking status code****************
+2022-09-19 14:20:47 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:20:47 INFO  Employee Rest API Automation Testing:56 - *************** Checking Success status in response body**********************************
+2022-09-19 14:20:47 INFO  Employee Rest API Automation Testing:73 - ******************Completed executing TC003_Post_Create_New_Employee**************************
+2022-09-19 14:20:52 INFO  Employee Rest API Automation Testing:25 - *********  Started TC003_Post_Create_New_Employee********************
+2022-09-19 14:21:00 INFO  Employee Rest API Automation Testing:64 - *******************checking Employee Name *******************************************
+2022-09-19 14:21:00 INFO  Employee Rest API Automation Testing:46 - ************checking status code****************
+2022-09-19 14:21:00 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:21:00 INFO  Employee Rest API Automation Testing:56 - *************** Checking Success status in response body**********************************
+2022-09-19 14:21:00 INFO  Employee Rest API Automation Testing:73 - ******************Completed executing TC003_Post_Create_New_Employee**************************
+2022-09-19 14:21:05 INFO  Employee Rest API Automation Testing:25 - *********  Started TC003_Post_Create_New_Employee********************
+2022-09-19 14:21:12 INFO  Employee Rest API Automation Testing:64 - *******************checking Employee Name *******************************************
+2022-09-19 14:21:14 INFO  Employee Rest API Automation Testing:66 - Created Employee Name is ====> PariTester kF
+2022-09-19 14:21:14 INFO  Employee Rest API Automation Testing:46 - ************checking status code****************
+2022-09-19 14:21:14 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 200
+2022-09-19 14:21:14 INFO  Employee Rest API Automation Testing:56 - *************** Checking Success status in response body**********************************
+2022-09-19 14:21:14 INFO  Employee Rest API Automation Testing:73 - ******************Completed executing TC003_Post_Create_New_Employee**************************
+2022-09-19 14:21:34 INFO  Employee Rest API Automation Testing:24 - **********Started executing TC004_PUT_Update_Existing_Employee****************
+2022-09-19 14:21:43 INFO  Employee Rest API Automation Testing:45 - *******Checking status code*********
+2022-09-19 14:21:43 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:21:43 INFO  Employee Rest API Automation Testing:54 - *******Checking Updated Employee Name*********
+2022-09-19 14:21:43 INFO  Employee Rest API Automation Testing:64 - ****************Completed executing TC004_PUT_Update_Existing_Employee *********************
+2022-09-19 14:21:49 INFO  Employee Rest API Automation Testing:24 - **********Started executing TC004_PUT_Update_Existing_Employee****************
+2022-09-19 14:21:58 INFO  Employee Rest API Automation Testing:45 - *******Checking status code*********
+2022-09-19 14:21:58 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:21:58 INFO  Employee Rest API Automation Testing:54 - *******Checking Updated Employee Name*********
+2022-09-19 14:21:58 INFO  Employee Rest API Automation Testing:64 - ****************Completed executing TC004_PUT_Update_Existing_Employee *********************
+2022-09-19 14:22:03 INFO  Employee Rest API Automation Testing:24 - **********Started executing TC004_PUT_Update_Existing_Employee****************
+2022-09-19 14:22:13 INFO  Employee Rest API Automation Testing:45 - *******Checking status code*********
+2022-09-19 14:22:13 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:22:13 INFO  Employee Rest API Automation Testing:54 - *******Checking Updated Employee Name*********
+2022-09-19 14:22:13 INFO  Employee Rest API Automation Testing:64 - ****************Completed executing TC004_PUT_Update_Existing_Employee *********************
+2022-09-19 14:22:24 INFO  Employee Rest API Automation Testing:24 - **********Started executing TC004_PUT_Update_Existing_Employee****************
+2022-09-19 14:22:33 INFO  Employee Rest API Automation Testing:45 - *******Checking status code*********
+2022-09-19 14:22:33 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 200
+2022-09-19 14:22:33 INFO  Employee Rest API Automation Testing:54 - *******Checking Updated Employee Name*********
+2022-09-19 14:22:34 INFO  Employee Rest API Automation Testing:56 - Updated Employee Name is ====> PariTester wt
+2022-09-19 14:22:34 INFO  Employee Rest API Automation Testing:64 - ****************Completed executing TC004_PUT_Update_Existing_Employee *********************
+2022-09-19 14:22:40 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:22:50 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:22:50 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 200
+2022-09-19 14:22:50 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:22:51 INFO  Employee Rest API Automation Testing:56 - Response message is: Successfully! All records has been fetched.
+2022-09-19 14:22:51 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:22:51 INFO  Employee Rest API Automation Testing:45 - Response status is: success
+2022-09-19 14:22:51 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:23:13 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:23:22 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:23:22 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 200
+2022-09-19 14:23:22 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:23:23 INFO  Employee Rest API Automation Testing:56 - Response message is: Successfully! All records has been fetched.
+2022-09-19 14:23:23 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:23:23 INFO  Employee Rest API Automation Testing:45 - Response status is: success
+2022-09-19 14:23:23 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:23:23 INFO  Employee Rest API Automation Testing:18 - ****************Started TC002_Get_Single_Employee**************************
+2022-09-19 14:23:28 INFO  Employee Rest API Automation Testing:61 - ******************Checking Employee ID ****************************************
+2022-09-19 14:23:28 INFO  Employee Rest API Automation Testing:63 - Emp ID is: 1
+2022-09-19 14:23:28 INFO  Employee Rest API Automation Testing:30 - ***********Checking Status Code Test********************
+2022-09-19 14:23:28 INFO  Employee Rest API Automation Testing:33 - Status code is: 200
+2022-09-19 14:23:28 INFO  Employee Rest API Automation Testing:52 - *********************checking success message in the response body*******************
+2022-09-19 14:23:28 INFO  Employee Rest API Automation Testing:41 - ****************checking success status in the response body******************************
+2022-09-19 14:23:28 INFO  Employee Rest API Automation Testing:44 - Response status is ==> success
+2022-09-19 14:23:28 INFO  Employee Rest API Automation Testing:71 - ************ Completed TC002_Get_Single_Employee**********************
+2022-09-19 14:23:28 INFO  Employee Rest API Automation Testing:25 - *********  Started TC003_Post_Create_New_Employee********************
+2022-09-19 14:23:34 INFO  Employee Rest API Automation Testing:64 - *******************checking Employee Name *******************************************
+2022-09-19 14:23:34 INFO  Employee Rest API Automation Testing:46 - ************checking status code****************
+2022-09-19 14:23:34 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:23:34 INFO  Employee Rest API Automation Testing:56 - *************** Checking Success status in response body**********************************
+2022-09-19 14:23:34 INFO  Employee Rest API Automation Testing:73 - ******************Completed executing TC003_Post_Create_New_Employee**************************
+2022-09-19 14:23:34 INFO  Employee Rest API Automation Testing:24 - **********Started executing TC004_PUT_Update_Existing_Employee****************
+2022-09-19 14:23:40 INFO  Employee Rest API Automation Testing:45 - *******Checking status code*********
+2022-09-19 14:23:40 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 200
+2022-09-19 14:23:40 INFO  Employee Rest API Automation Testing:54 - *******Checking Updated Employee Name*********
+2022-09-19 14:23:40 INFO  Employee Rest API Automation Testing:56 - Updated Employee Name is ====> PariTester Bu
+2022-09-19 14:23:40 INFO  Employee Rest API Automation Testing:64 - ****************Completed executing TC004_PUT_Update_Existing_Employee *********************
+2022-09-19 14:23:40 INFO  Employee Rest API Automation Testing:18 - ******** Started TC005_Delete_Employee************
+2022-09-19 14:23:44 INFO  Employee Rest API Automation Testing:38 - **********Checking Delete Message in the response body*****************
+2022-09-19 14:23:44 INFO  Employee Rest API Automation Testing:31 - **********Checking Status code Test*****************
+2022-09-19 14:23:44 INFO  Employee Rest API Automation Testing:32 - Status code is =======>429
+2022-09-19 14:23:44 INFO  Employee Rest API Automation Testing:46 - **************Completed executing TC005_Delete_Employee**************************************
+2022-09-19 14:24:01 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:24:11 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:24:11 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 200
+2022-09-19 14:24:11 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:24:12 INFO  Employee Rest API Automation Testing:56 - Response message is: Successfully! All records has been fetched.
+2022-09-19 14:24:12 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:24:12 INFO  Employee Rest API Automation Testing:45 - Response status is: success
+2022-09-19 14:24:12 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:24:12 INFO  Employee Rest API Automation Testing:18 - ****************Started TC002_Get_Single_Employee**************************
+2022-09-19 14:24:16 INFO  Employee Rest API Automation Testing:61 - ******************Checking Employee ID ****************************************
+2022-09-19 14:24:16 INFO  Employee Rest API Automation Testing:63 - Emp ID is: 1
+2022-09-19 14:24:16 INFO  Employee Rest API Automation Testing:30 - ***********Checking Status Code Test********************
+2022-09-19 14:24:16 INFO  Employee Rest API Automation Testing:33 - Status code is: 200
+2022-09-19 14:24:16 INFO  Employee Rest API Automation Testing:52 - *********************checking success message in the response body*******************
+2022-09-19 14:24:16 INFO  Employee Rest API Automation Testing:41 - ****************checking success status in the response body******************************
+2022-09-19 14:24:16 INFO  Employee Rest API Automation Testing:44 - Response status is ==> success
+2022-09-19 14:24:16 INFO  Employee Rest API Automation Testing:71 - ************ Completed TC002_Get_Single_Employee**********************
+2022-09-19 14:24:16 INFO  Employee Rest API Automation Testing:25 - *********  Started TC003_Post_Create_New_Employee********************
+2022-09-19 14:24:23 INFO  Employee Rest API Automation Testing:64 - *******************checking Employee Name *******************************************
+2022-09-19 14:24:23 INFO  Employee Rest API Automation Testing:46 - ************checking status code****************
+2022-09-19 14:24:23 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:24:23 INFO  Employee Rest API Automation Testing:56 - *************** Checking Success status in response body**********************************
+2022-09-19 14:24:23 INFO  Employee Rest API Automation Testing:73 - ******************Completed executing TC003_Post_Create_New_Employee**************************
+2022-09-19 14:24:23 INFO  Employee Rest API Automation Testing:24 - **********Started executing TC004_PUT_Update_Existing_Employee****************
+2022-09-19 14:24:29 INFO  Employee Rest API Automation Testing:45 - *******Checking status code*********
+2022-09-19 14:24:29 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:24:29 INFO  Employee Rest API Automation Testing:54 - *******Checking Updated Employee Name*********
+2022-09-19 14:24:29 INFO  Employee Rest API Automation Testing:64 - ****************Completed executing TC004_PUT_Update_Existing_Employee *********************
+2022-09-19 14:24:29 INFO  Employee Rest API Automation Testing:18 - ******** Started TC005_Delete_Employee************
+2022-09-19 14:24:33 INFO  Employee Rest API Automation Testing:38 - **********Checking Delete Message in the response body*****************
+2022-09-19 14:24:33 INFO  Employee Rest API Automation Testing:31 - **********Checking Status code Test*****************
+2022-09-19 14:24:33 INFO  Employee Rest API Automation Testing:32 - Status code is =======>200
+2022-09-19 14:24:33 INFO  Employee Rest API Automation Testing:46 - **************Completed executing TC005_Delete_Employee**************************************
+2022-09-19 14:24:50 INFO  Employee Rest API Automation Testing:25 - *********  Started TC003_Post_Create_New_Employee********************
+2022-09-19 14:24:59 INFO  Employee Rest API Automation Testing:64 - *******************checking Employee Name *******************************************
+2022-09-19 14:25:00 INFO  Employee Rest API Automation Testing:46 - ************checking status code****************
+2022-09-19 14:25:00 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:25:00 INFO  Employee Rest API Automation Testing:56 - *************** Checking Success status in response body**********************************
+2022-09-19 14:25:00 INFO  Employee Rest API Automation Testing:73 - ******************Completed executing TC003_Post_Create_New_Employee**************************
+2022-09-19 14:25:07 INFO  Employee Rest API Automation Testing:25 - *********  Started TC003_Post_Create_New_Employee********************
+2022-09-19 14:25:17 INFO  Employee Rest API Automation Testing:64 - *******************checking Employee Name *******************************************
+2022-09-19 14:25:18 INFO  Employee Rest API Automation Testing:46 - ************checking status code****************
+2022-09-19 14:25:18 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:25:18 INFO  Employee Rest API Automation Testing:56 - *************** Checking Success status in response body**********************************
+2022-09-19 14:25:18 INFO  Employee Rest API Automation Testing:73 - ******************Completed executing TC003_Post_Create_New_Employee**************************
+2022-09-19 14:25:25 INFO  Employee Rest API Automation Testing:25 - *********  Started TC003_Post_Create_New_Employee********************
+2022-09-19 14:25:34 INFO  Employee Rest API Automation Testing:64 - *******************checking Employee Name *******************************************
+2022-09-19 14:25:35 INFO  Employee Rest API Automation Testing:66 - Created Employee Name is ====> PariTester WW
+2022-09-19 14:25:36 INFO  Employee Rest API Automation Testing:46 - ************checking status code****************
+2022-09-19 14:25:36 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 200
+2022-09-19 14:25:36 INFO  Employee Rest API Automation Testing:56 - *************** Checking Success status in response body**********************************
+2022-09-19 14:25:36 INFO  Employee Rest API Automation Testing:73 - ******************Completed executing TC003_Post_Create_New_Employee**************************
+2022-09-19 14:25:44 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:25:54 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:25:54 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 429
+2022-09-19 14:25:54 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:25:54 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:25:54 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:25:54 INFO  Employee Rest API Automation Testing:18 - ****************Started TC002_Get_Single_Employee**************************
+2022-09-19 14:25:58 INFO  Employee Rest API Automation Testing:61 - ******************Checking Employee ID ****************************************
+2022-09-19 14:25:59 INFO  Employee Rest API Automation Testing:63 - Emp ID is: 1
+2022-09-19 14:25:59 INFO  Employee Rest API Automation Testing:30 - ***********Checking Status Code Test********************
+2022-09-19 14:25:59 INFO  Employee Rest API Automation Testing:33 - Status code is: 200
+2022-09-19 14:25:59 INFO  Employee Rest API Automation Testing:52 - *********************checking success message in the response body*******************
+2022-09-19 14:25:59 INFO  Employee Rest API Automation Testing:41 - ****************checking success status in the response body******************************
+2022-09-19 14:25:59 INFO  Employee Rest API Automation Testing:44 - Response status is ==> success
+2022-09-19 14:25:59 INFO  Employee Rest API Automation Testing:71 - ************ Completed TC002_Get_Single_Employee**********************
+2022-09-19 14:25:59 INFO  Employee Rest API Automation Testing:25 - *********  Started TC003_Post_Create_New_Employee********************
+2022-09-19 14:26:06 INFO  Employee Rest API Automation Testing:64 - *******************checking Employee Name *******************************************
+2022-09-19 14:26:06 INFO  Employee Rest API Automation Testing:66 - Created Employee Name is ====> PariTester fY
+2022-09-19 14:26:06 INFO  Employee Rest API Automation Testing:46 - ************checking status code****************
+2022-09-19 14:26:06 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 200
+2022-09-19 14:26:06 INFO  Employee Rest API Automation Testing:56 - *************** Checking Success status in response body**********************************
+2022-09-19 14:26:06 INFO  Employee Rest API Automation Testing:73 - ******************Completed executing TC003_Post_Create_New_Employee**************************
+2022-09-19 14:26:06 INFO  Employee Rest API Automation Testing:24 - **********Started executing TC004_PUT_Update_Existing_Employee****************
+2022-09-19 14:26:12 INFO  Employee Rest API Automation Testing:45 - *******Checking status code*********
+2022-09-19 14:26:12 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 200
+2022-09-19 14:26:12 INFO  Employee Rest API Automation Testing:54 - *******Checking Updated Employee Name*********
+2022-09-19 14:26:12 INFO  Employee Rest API Automation Testing:56 - Updated Employee Name is ====> PariTester NR
+2022-09-19 14:26:12 INFO  Employee Rest API Automation Testing:64 - ****************Completed executing TC004_PUT_Update_Existing_Employee *********************
+2022-09-19 14:26:12 INFO  Employee Rest API Automation Testing:18 - ******** Started TC005_Delete_Employee************
+2022-09-19 14:26:16 INFO  Employee Rest API Automation Testing:38 - **********Checking Delete Message in the response body*****************
+2022-09-19 14:26:16 INFO  Employee Rest API Automation Testing:31 - **********Checking Status code Test*****************
+2022-09-19 14:26:16 INFO  Employee Rest API Automation Testing:32 - Status code is =======>429
+2022-09-19 14:26:16 INFO  Employee Rest API Automation Testing:46 - **************Completed executing TC005_Delete_Employee**************************************
+2022-09-19 14:26:26 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:26:36 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:26:36 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 429
+2022-09-19 14:26:36 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:26:36 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:26:36 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:26:36 INFO  Employee Rest API Automation Testing:18 - ****************Started TC002_Get_Single_Employee**************************
+2022-09-19 14:26:40 INFO  Employee Rest API Automation Testing:61 - ******************Checking Employee ID ****************************************
+2022-09-19 14:26:40 INFO  Employee Rest API Automation Testing:30 - ***********Checking Status Code Test********************
+2022-09-19 14:26:40 INFO  Employee Rest API Automation Testing:33 - Status code is: 429
+2022-09-19 14:26:40 INFO  Employee Rest API Automation Testing:52 - *********************checking success message in the response body*******************
+2022-09-19 14:26:40 INFO  Employee Rest API Automation Testing:41 - ****************checking success status in the response body******************************
+2022-09-19 14:26:40 INFO  Employee Rest API Automation Testing:71 - ************ Completed TC002_Get_Single_Employee**********************
+2022-09-19 14:26:40 INFO  Employee Rest API Automation Testing:25 - *********  Started TC003_Post_Create_New_Employee********************
+2022-09-19 14:26:46 INFO  Employee Rest API Automation Testing:64 - *******************checking Employee Name *******************************************
+2022-09-19 14:26:46 INFO  Employee Rest API Automation Testing:46 - ************checking status code****************
+2022-09-19 14:26:46 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:26:46 INFO  Employee Rest API Automation Testing:56 - *************** Checking Success status in response body**********************************
+2022-09-19 14:26:46 INFO  Employee Rest API Automation Testing:73 - ******************Completed executing TC003_Post_Create_New_Employee**************************
+2022-09-19 14:26:46 INFO  Employee Rest API Automation Testing:24 - **********Started executing TC004_PUT_Update_Existing_Employee****************
+2022-09-19 14:26:52 INFO  Employee Rest API Automation Testing:45 - *******Checking status code*********
+2022-09-19 14:26:52 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:26:52 INFO  Employee Rest API Automation Testing:54 - *******Checking Updated Employee Name*********
+2022-09-19 14:26:52 INFO  Employee Rest API Automation Testing:64 - ****************Completed executing TC004_PUT_Update_Existing_Employee *********************
+2022-09-19 14:26:53 INFO  Employee Rest API Automation Testing:18 - ******** Started TC005_Delete_Employee************
+2022-09-19 14:26:57 INFO  Employee Rest API Automation Testing:38 - **********Checking Delete Message in the response body*****************
+2022-09-19 14:26:58 INFO  Employee Rest API Automation Testing:31 - **********Checking Status code Test*****************
+2022-09-19 14:26:58 INFO  Employee Rest API Automation Testing:32 - Status code is =======>200
+2022-09-19 14:26:58 INFO  Employee Rest API Automation Testing:46 - **************Completed executing TC005_Delete_Employee**************************************
+2022-09-19 14:27:24 INFO  Employee Rest API Automation Testing:25 - *********  Started TC003_Post_Create_New_Employee********************
+2022-09-19 14:27:33 INFO  Employee Rest API Automation Testing:64 - *******************checking Employee Name *******************************************
+2022-09-19 14:27:34 INFO  Employee Rest API Automation Testing:46 - ************checking status code****************
+2022-09-19 14:27:34 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:27:34 INFO  Employee Rest API Automation Testing:56 - *************** Checking Success status in response body**********************************
+2022-09-19 14:27:34 INFO  Employee Rest API Automation Testing:73 - ******************Completed executing TC003_Post_Create_New_Employee**************************
+2022-09-19 14:27:39 INFO  Employee Rest API Automation Testing:25 - *********  Started TC003_Post_Create_New_Employee********************
+2022-09-19 14:27:48 INFO  Employee Rest API Automation Testing:64 - *******************checking Employee Name *******************************************
+2022-09-19 14:27:48 INFO  Employee Rest API Automation Testing:46 - ************checking status code****************
+2022-09-19 14:27:48 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:27:48 INFO  Employee Rest API Automation Testing:56 - *************** Checking Success status in response body**********************************
+2022-09-19 14:27:48 INFO  Employee Rest API Automation Testing:73 - ******************Completed executing TC003_Post_Create_New_Employee**************************
+2022-09-19 14:27:53 INFO  Employee Rest API Automation Testing:25 - *********  Started TC003_Post_Create_New_Employee********************
+2022-09-19 14:28:04 INFO  Employee Rest API Automation Testing:64 - *******************checking Employee Name *******************************************
+2022-09-19 14:28:05 INFO  Employee Rest API Automation Testing:66 - Created Employee Name is ====> PariTester NC
+2022-09-19 14:28:05 INFO  Employee Rest API Automation Testing:46 - ************checking status code****************
+2022-09-19 14:28:05 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 200
+2022-09-19 14:28:05 INFO  Employee Rest API Automation Testing:56 - *************** Checking Success status in response body**********************************
+2022-09-19 14:28:05 INFO  Employee Rest API Automation Testing:73 - ******************Completed executing TC003_Post_Create_New_Employee**************************
+2022-09-19 14:28:10 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:28:20 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:28:20 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 200
+2022-09-19 14:28:20 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:28:21 INFO  Employee Rest API Automation Testing:56 - Response message is: Successfully! All records has been fetched.
+2022-09-19 14:28:21 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:28:21 INFO  Employee Rest API Automation Testing:45 - Response status is: success
+2022-09-19 14:28:21 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:28:31 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:28:40 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:28:40 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 429
+2022-09-19 14:28:40 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:28:41 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:28:41 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:28:41 INFO  Employee Rest API Automation Testing:18 - ****************Started TC002_Get_Single_Employee**************************
+2022-09-19 14:28:45 INFO  Employee Rest API Automation Testing:61 - ******************Checking Employee ID ****************************************
+2022-09-19 14:28:45 INFO  Employee Rest API Automation Testing:30 - ***********Checking Status Code Test********************
+2022-09-19 14:28:45 INFO  Employee Rest API Automation Testing:33 - Status code is: 429
+2022-09-19 14:28:45 INFO  Employee Rest API Automation Testing:52 - *********************checking success message in the response body*******************
+2022-09-19 14:28:45 INFO  Employee Rest API Automation Testing:41 - ****************checking success status in the response body******************************
+2022-09-19 14:28:45 INFO  Employee Rest API Automation Testing:71 - ************ Completed TC002_Get_Single_Employee**********************
+2022-09-19 14:28:45 INFO  Employee Rest API Automation Testing:25 - *********  Started TC003_Post_Create_New_Employee********************
+2022-09-19 14:28:51 INFO  Employee Rest API Automation Testing:64 - *******************checking Employee Name *******************************************
+2022-09-19 14:28:51 INFO  Employee Rest API Automation Testing:46 - ************checking status code****************
+2022-09-19 14:28:51 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:28:51 INFO  Employee Rest API Automation Testing:56 - *************** Checking Success status in response body**********************************
+2022-09-19 14:28:51 INFO  Employee Rest API Automation Testing:73 - ******************Completed executing TC003_Post_Create_New_Employee**************************
+2022-09-19 14:28:51 INFO  Employee Rest API Automation Testing:24 - **********Started executing TC004_PUT_Update_Existing_Employee****************
+2022-09-19 14:28:57 INFO  Employee Rest API Automation Testing:45 - *******Checking status code*********
+2022-09-19 14:28:57 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:28:57 INFO  Employee Rest API Automation Testing:54 - *******Checking Updated Employee Name*********
+2022-09-19 14:28:57 INFO  Employee Rest API Automation Testing:64 - ****************Completed executing TC004_PUT_Update_Existing_Employee *********************
+2022-09-19 14:28:57 INFO  Employee Rest API Automation Testing:18 - ******** Started TC005_Delete_Employee************
+2022-09-19 14:29:02 INFO  Employee Rest API Automation Testing:38 - **********Checking Delete Message in the response body*****************
+2022-09-19 14:29:02 INFO  Employee Rest API Automation Testing:31 - **********Checking Status code Test*****************
+2022-09-19 14:29:02 INFO  Employee Rest API Automation Testing:32 - Status code is =======>429
+2022-09-19 14:29:02 INFO  Employee Rest API Automation Testing:46 - **************Completed executing TC005_Delete_Employee**************************************
+2022-09-19 14:29:19 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:29:30 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:29:30 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 429
+2022-09-19 14:29:30 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:29:30 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:29:30 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:29:38 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:29:48 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:29:48 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 429
+2022-09-19 14:29:48 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:29:48 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:29:48 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:29:52 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:30:02 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:30:02 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 200
+2022-09-19 14:30:02 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:30:03 INFO  Employee Rest API Automation Testing:56 - Response message is: Successfully! All records has been fetched.
+2022-09-19 14:30:03 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:30:03 INFO  Employee Rest API Automation Testing:45 - Response status is: success
+2022-09-19 14:30:03 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:30:15 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:30:24 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:30:24 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 429
+2022-09-19 14:30:24 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:30:24 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:30:24 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:30:24 INFO  Employee Rest API Automation Testing:18 - ****************Started TC002_Get_Single_Employee**************************
+2022-09-19 14:31:05 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:31:14 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:31:14 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 429
+2022-09-19 14:31:15 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:31:15 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:31:15 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:31:15 INFO  Employee Rest API Automation Testing:18 - ****************Started TC002_Get_Single_Employee**************************
+2022-09-19 14:31:23 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:31:32 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:31:32 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 200
+2022-09-19 14:31:32 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:31:34 INFO  Employee Rest API Automation Testing:56 - Response message is: Successfully! All records has been fetched.
+2022-09-19 14:31:34 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:31:34 INFO  Employee Rest API Automation Testing:45 - Response status is: success
+2022-09-19 14:31:34 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:31:50 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:32:00 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:32:00 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 200
+2022-09-19 14:32:00 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:32:01 INFO  Employee Rest API Automation Testing:56 - Response message is: Successfully! All records has been fetched.
+2022-09-19 14:32:01 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:32:01 INFO  Employee Rest API Automation Testing:45 - Response status is: success
+2022-09-19 14:32:01 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:32:01 INFO  Employee Rest API Automation Testing:18 - ****************Started TC002_Get_Single_Employee**************************
+2022-09-19 14:32:05 INFO  Employee Rest API Automation Testing:61 - ******************Checking Employee ID ****************************************
+2022-09-19 14:32:05 INFO  Employee Rest API Automation Testing:63 - Emp ID is: 3
+2022-09-19 14:32:05 INFO  Employee Rest API Automation Testing:30 - ***********Checking Status Code Test********************
+2022-09-19 14:32:05 INFO  Employee Rest API Automation Testing:33 - Status code is: 200
+2022-09-19 14:32:05 INFO  Employee Rest API Automation Testing:52 - *********************checking success message in the response body*******************
+2022-09-19 14:32:05 INFO  Employee Rest API Automation Testing:41 - ****************checking success status in the response body******************************
+2022-09-19 14:32:05 INFO  Employee Rest API Automation Testing:44 - Response status is ==> success
+2022-09-19 14:32:05 INFO  Employee Rest API Automation Testing:71 - ************ Completed TC002_Get_Single_Employee**********************
+2022-09-19 14:32:05 INFO  Employee Rest API Automation Testing:25 - *********  Started TC003_Post_Create_New_Employee********************
+2022-09-19 14:32:11 INFO  Employee Rest API Automation Testing:64 - *******************checking Employee Name *******************************************
+2022-09-19 14:32:11 INFO  Employee Rest API Automation Testing:46 - ************checking status code****************
+2022-09-19 14:32:11 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:32:12 INFO  Employee Rest API Automation Testing:56 - *************** Checking Success status in response body**********************************
+2022-09-19 14:32:12 INFO  Employee Rest API Automation Testing:73 - ******************Completed executing TC003_Post_Create_New_Employee**************************
+2022-09-19 14:32:12 INFO  Employee Rest API Automation Testing:24 - **********Started executing TC004_PUT_Update_Existing_Employee****************
+2022-09-19 14:32:18 INFO  Employee Rest API Automation Testing:45 - *******Checking status code*********
+2022-09-19 14:32:18 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:32:18 INFO  Employee Rest API Automation Testing:54 - *******Checking Updated Employee Name*********
+2022-09-19 14:32:18 INFO  Employee Rest API Automation Testing:64 - ****************Completed executing TC004_PUT_Update_Existing_Employee *********************
+2022-09-19 14:32:18 INFO  Employee Rest API Automation Testing:18 - ******** Started TC005_Delete_Employee************
+2022-09-19 14:32:22 INFO  Employee Rest API Automation Testing:38 - **********Checking Delete Message in the response body*****************
+2022-09-19 14:32:22 INFO  Employee Rest API Automation Testing:31 - **********Checking Status code Test*****************
+2022-09-19 14:32:22 INFO  Employee Rest API Automation Testing:32 - Status code is =======>429
+2022-09-19 14:32:22 INFO  Employee Rest API Automation Testing:46 - **************Completed executing TC005_Delete_Employee**************************************
+2022-09-19 14:32:36 INFO  Employee Rest API Automation Testing:25 - *********  Started TC003_Post_Create_New_Employee********************
+2022-09-19 14:32:46 INFO  Employee Rest API Automation Testing:64 - *******************checking Employee Name *******************************************
+2022-09-19 14:32:46 INFO  Employee Rest API Automation Testing:46 - ************checking status code****************
+2022-09-19 14:32:46 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:32:46 INFO  Employee Rest API Automation Testing:56 - *************** Checking Success status in response body**********************************
+2022-09-19 14:32:46 INFO  Employee Rest API Automation Testing:73 - ******************Completed executing TC003_Post_Create_New_Employee**************************
+2022-09-19 14:32:52 INFO  Employee Rest API Automation Testing:25 - *********  Started TC003_Post_Create_New_Employee********************
+2022-09-19 14:33:01 INFO  Employee Rest API Automation Testing:64 - *******************checking Employee Name *******************************************
+2022-09-19 14:33:02 INFO  Employee Rest API Automation Testing:66 - Created Employee Name is ====> PariTester wk
+2022-09-19 14:33:02 INFO  Employee Rest API Automation Testing:46 - ************checking status code****************
+2022-09-19 14:33:02 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 200
+2022-09-19 14:33:02 INFO  Employee Rest API Automation Testing:56 - *************** Checking Success status in response body**********************************
+2022-09-19 14:33:02 INFO  Employee Rest API Automation Testing:73 - ******************Completed executing TC003_Post_Create_New_Employee**************************
+2022-09-19 14:33:13 INFO  Employee Rest API Automation Testing:24 - **********Started executing TC004_PUT_Update_Existing_Employee****************
+2022-09-19 14:33:23 INFO  Employee Rest API Automation Testing:45 - *******Checking status code*********
+2022-09-19 14:33:23 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 200
+2022-09-19 14:33:23 INFO  Employee Rest API Automation Testing:54 - *******Checking Updated Employee Name*********
+2022-09-19 14:33:24 INFO  Employee Rest API Automation Testing:56 - Updated Employee Name is ====> PariTester Vx
+2022-09-19 14:33:24 INFO  Employee Rest API Automation Testing:64 - ****************Completed executing TC004_PUT_Update_Existing_Employee *********************
+2022-09-19 14:33:29 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:33:39 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:33:39 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 200
+2022-09-19 14:33:39 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:33:40 INFO  Employee Rest API Automation Testing:56 - Response message is: Successfully! All records has been fetched.
+2022-09-19 14:33:40 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:33:40 INFO  Employee Rest API Automation Testing:45 - Response status is: success
+2022-09-19 14:33:40 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:33:50 INFO  Employee Rest API Automation Testing:18 - ************ Started TC001_Get_All_Employees *****************
+2022-09-19 14:33:59 INFO  Employee Rest API Automation Testing:31 - ********Checking Status Code test ***************
+2022-09-19 14:33:59 INFO  Employee Rest API Automation Testing:34 - Status Code is ==> 200
+2022-09-19 14:33:59 INFO  Employee Rest API Automation Testing:53 - ***********checking success message in response body ***************
+2022-09-19 14:34:00 INFO  Employee Rest API Automation Testing:56 - Response message is: Successfully! All records has been fetched.
+2022-09-19 14:34:01 INFO  Employee Rest API Automation Testing:42 - ***********checking success status in response body ***************
+2022-09-19 14:34:01 INFO  Employee Rest API Automation Testing:45 - Response status is: success
+2022-09-19 14:34:01 INFO  Employee Rest API Automation Testing:64 - ******* Completed TC001 **************
+2022-09-19 14:34:01 INFO  Employee Rest API Automation Testing:18 - ****************Started TC002_Get_Single_Employee**************************
+2022-09-19 14:34:05 INFO  Employee Rest API Automation Testing:61 - ******************Checking Employee ID ****************************************
+2022-09-19 14:34:05 INFO  Employee Rest API Automation Testing:63 - Emp ID is: 3
+2022-09-19 14:34:05 INFO  Employee Rest API Automation Testing:30 - ***********Checking Status Code Test********************
+2022-09-19 14:34:05 INFO  Employee Rest API Automation Testing:33 - Status code is: 200
+2022-09-19 14:34:05 INFO  Employee Rest API Automation Testing:52 - *********************checking success message in the response body*******************
+2022-09-19 14:34:05 INFO  Employee Rest API Automation Testing:41 - ****************checking success status in the response body******************************
+2022-09-19 14:34:05 INFO  Employee Rest API Automation Testing:44 - Response status is ==> success
+2022-09-19 14:34:05 INFO  Employee Rest API Automation Testing:71 - ************ Completed TC002_Get_Single_Employee**********************
+2022-09-19 14:34:05 INFO  Employee Rest API Automation Testing:25 - *********  Started TC003_Post_Create_New_Employee********************
+2022-09-19 14:34:11 INFO  Employee Rest API Automation Testing:64 - *******************checking Employee Name *******************************************
+2022-09-19 14:34:11 INFO  Employee Rest API Automation Testing:46 - ************checking status code****************
+2022-09-19 14:34:11 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 429
+2022-09-19 14:34:11 INFO  Employee Rest API Automation Testing:56 - *************** Checking Success status in response body**********************************
+2022-09-19 14:34:11 INFO  Employee Rest API Automation Testing:73 - ******************Completed executing TC003_Post_Create_New_Employee**************************
+2022-09-19 14:34:11 INFO  Employee Rest API Automation Testing:24 - **********Started executing TC004_PUT_Update_Existing_Employee****************
+2022-09-19 14:34:17 INFO  Employee Rest API Automation Testing:45 - *******Checking status code*********
+2022-09-19 14:34:17 INFO  Employee Rest API Automation Testing:47 - Status code is ==> 200
+2022-09-19 14:34:17 INFO  Employee Rest API Automation Testing:54 - *******Checking Updated Employee Name*********
+2022-09-19 14:34:17 INFO  Employee Rest API Automation Testing:56 - Updated Employee Name is ====> PariTester FP
+2022-09-19 14:34:17 INFO  Employee Rest API Automation Testing:64 - ****************Completed executing TC004_PUT_Update_Existing_Employee *********************
+2022-09-19 14:34:17 INFO  Employee Rest API Automation Testing:18 - ******** Started TC005_Delete_Employee************
+2022-09-19 14:34:22 INFO  Employee Rest API Automation Testing:38 - **********Checking Delete Message in the response body*****************
+2022-09-19 14:34:22 INFO  Employee Rest API Automation Testing:31 - **********Checking Status code Test*****************
+2022-09-19 14:34:22 INFO  Employee Rest API Automation Testing:32 - Status code is =======>200
+2022-09-19 14:34:22 INFO  Employee Rest API Automation Testing:46 - **************Completed executing TC005_Delete_Employee**************************************
